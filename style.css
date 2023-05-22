@@ -1,0 +1,14 @@
+body{
+    background-image: url("mars.gif");
+    background-position: center;
+    background-size: cover;
+}
+#h{
+    font-family: cursive;
+    color: antiquewhite;
+}
+#MY_CANVAS{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
